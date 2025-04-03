@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "684026150374",
+    "project_id": "krenter-3989e",
+    "storage_bucket": "krenter-3989e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684026150374:android:f88e2f41573826a4d66a27",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684026150374-ka89h4ll8djsgoatqac5drbp0rprl8o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBKKXSLHELprICTm742cJ_UrUgS4REGgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684026150374-ka89h4ll8djsgoatqac5drbp0rprl8o0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684026150374-83p2flg714baks336jvvv71jeqkcs25c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.irenter.irenter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684026150374:android:fe8ee44076637800d66a27",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684026150374-ka89h4ll8djsgoatqac5drbp0rprl8o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBKKXSLHELprICTm742cJ_UrUgS4REGgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684026150374-ka89h4ll8djsgoatqac5drbp0rprl8o0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684026150374-83p2flg714baks336jvvv71jeqkcs25c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.irenter.irenter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684026150374:android:3bc9ebaac84ab97fd66a27",
+        "android_client_info": {
+          "package_name": "com.irenter.irenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684026150374-ka89h4ll8djsgoatqac5drbp0rprl8o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBKKXSLHELprICTm742cJ_UrUgS4REGgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684026150374-ka89h4ll8djsgoatqac5drbp0rprl8o0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684026150374-83p2flg714baks336jvvv71jeqkcs25c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.irenter.irenter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
